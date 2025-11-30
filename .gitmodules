@@ -22,3 +22,6 @@
 [submodule "DisconnectConfirmation-Plugin"]
 	path = DisconnectConfirmation-Plugin
 	url = https://github.com/OnixClient-PluginForks/DisconnectConfirmation-Plugin
+[submodule "WorldEditPlugin"]
+	path = WorldEditPlugin
+	url = https://github.com/Janjre/WorldEditPlugin
